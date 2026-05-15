@@ -53,5 +53,4 @@ with DAG(
         bash_command='dbt test --project-dir /app/dbt/my_dbt_project'
     )
 
-    # ترتيب التنفيذ
-    ingestion >> cleaning >> transform >> quality >> warehouse >> dbt_run >> dbt_test
+  
