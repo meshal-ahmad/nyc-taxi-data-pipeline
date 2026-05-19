@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27177727/README.md)
-# 🚕 AI-Dataset Engineering Platform (NYC Taxi)
+# 🚕 nyc-taxi-data-pipeline (NYC Taxi)
 
 > A robust, production-grade Data Engineering Platform designed to handle the end-to-end lifecycle of the NYC Taxi dataset. This project demonstrates advanced data orchestration, transformation, and validation using the modern data stack.
 
@@ -20,7 +20,7 @@ Each layer adds structure, quality, and business value to the data.
 ## 📁 Folder Structure
 
 ```
-AI-Dataset-Engineering-Platform/
+nyc-taxi-data-pipeline/
 │
 ├── ingestion/              # Data acquisition via APIs and collectors
 ├── data_lake/
@@ -146,7 +146,7 @@ The `dashboard/` module provides real-time visualization of:
 Information Systems Student | Data Engineering Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/meshal-ahmed-4a84242b5)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/2027-2003)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/meshal-ahmad)
 
 ---
 
